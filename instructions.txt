@@ -1,0 +1,7 @@
+Login credientials:
+email:praneethvvsss@gmail.com
+password:123456789
+
+
+
+Note:login button will be enable only after filling credentials and captcha
